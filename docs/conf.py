@@ -19,7 +19,7 @@
 
 project = "技术文档实战"
 copyright = "2025, 文档小栈"
-author = "文档小栈"
+author = "xiaoming734"
 
 
 # -- General configuration ---------------------------------------------------
